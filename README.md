@@ -36,7 +36,7 @@ Requirments:
 
 First of all, [download and install Node.js to your machine if it's not already installed](https://nodejs.org/en/download/). To check the version of Node.js, run:
 ```
-$node -v
+$ node -v
 ```
 This should output the version you're currently using, for example:
 ```
@@ -45,13 +45,13 @@ v12.16.1
 
 Then install the required dependencies:
 ```
-npm i discord.js@11.5.1
-npm i dotenv@8.2.0
+$ npm i discord.js@11.5.1
+$ npm i dotenv@8.2.0
 ```
 
 Lastly, navigate to the bot's folder, modify `.env.example`, replace `YOUR_TOKEN_HERE` with your bot's token which can be found in [Discord Developers page](https://discordapp.com/developers), rename `.env.example` to `.env` and run:
 ```
-node index.js
+$ node index.js
 ```
 
 If it outputs this message:
