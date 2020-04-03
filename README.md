@@ -2,7 +2,7 @@
 <div align="center">
     <img src="https://i.imgur.com/RFcCwcj.png">
 
-<a href="https://discord.gg/7vhD4KB">![Discord](https://img.shields.io/discord/661993788616474628?label=Join%20us%20on%20Discord&logo=discord&logoColor=ffffff)</a>
+<a href="https://discord.gg/7vhD4KB">![Discord](https://img.shields.io/discord/661993788616474628?label=Join%20us%20on%20Discord&logo=discord&logoColor=ffffff)</a> | 
 <a href="https://github.com/TheOnlyGhostwolf/atSomeone/blob/master/LICENSE">![License](https://img.shields.io/badge/License-Unlicense-brightgreen)</a>
 </div>
 
@@ -10,6 +10,7 @@
 
 <h2 align="center">atSomeone</h2>
 atSomeone's purpose is to recreate the Discord's April Fools 2018 joke - @Someone function. 
+
 <div aligh="center">
 	<img src="https://i.imgur.com/oOYrgpC.png">
 	</div>
@@ -21,7 +22,7 @@ atSomeone's purpose is to recreate the Discord's April Fools 2018 joke - @Someon
 - [License](#license)
 
 <h2 align="center">Contributing</h2>
-Contributions are welcomed! Any code improvements that would make the data gathering and processing even more effective are welcomed!
+Any code improvements that would make the data gathering and processing even more effective are highly welcomed!
 
 <h2 align="center">Self-hosting</h2>
 > WARNING! This part might not be the best tutorial how to launch the bot. I apologise for that.
