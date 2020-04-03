@@ -25,6 +25,7 @@ atSomeone's purpose is to recreate the Discord's April Fools 2018 joke - @Someon
 Any code improvements that would make the data gathering and processing even more effective are highly welcomed!
 
 <h2 align="center">Self-hosting</h2>
+
 > WARNING! This part might not be the best tutorial how to launch the bot. I apologise for that.
 
 Requirments:
