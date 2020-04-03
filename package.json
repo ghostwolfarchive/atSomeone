@@ -11,6 +11,6 @@
     "discord.js": "^11.5.1",
     "dotenv": "^8.2.0"
   },
-  "author": "Paulius (Ghostwolf)",
-  "license": "ISC"
+  "author": "TheOnlyGhostwolf",
+  "license": "Unlicense"
 }
