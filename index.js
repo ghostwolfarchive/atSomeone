@@ -59,7 +59,6 @@ client.on("message", async message => {
         .get(message.guild.id)
         .fetchMembers()
         .then(guild => {
-          //console.log(guild)
           let member = Array.from(getRandomItem(guild));
           var memberid = member.values().next().value;
           var selectedusername = client.users.get(memberid).username;
@@ -74,7 +73,6 @@ client.on("message", async message => {
         });
       talkedRecently.add(message.author.id);
       setTimeout(() => {
-        // Removes the user from the set after a minute
         talkedRecently.delete(message.author.id);
       }, 3000);
     }
