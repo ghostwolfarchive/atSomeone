@@ -11,6 +11,7 @@
     "discord.js": "^11.5.1",
     "dotenv": "^8.2.0"
   },
-  "author": "TheOnlyGhostwolf",
-  "license": "Unlicense"
+  "author": "TheOnlyGhostwolf (https://ghostwolf.me)",
+  "repository": "https://github.com/TheOnlyGhostwolf/atSomeone",
+  "license": "UNLICENSED"
 }

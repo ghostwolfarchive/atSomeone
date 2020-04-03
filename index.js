@@ -44,8 +44,6 @@ process.on("unhandledRejection", error => {
 client.on("message", async message => {
   if (message.author.bot) return;
 
-  if (message.content == "Ping") message.channel.send("Pong!");
-
   if (
     message.content == "<@" + client.user.id + ">" ||
     message.content == "<@!" + client.user.id + ">"
