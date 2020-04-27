@@ -1,4 +1,3 @@
-
 <div align="center">
     <img src="https://i.imgur.com/RFcCwcj.png">
 
@@ -14,6 +13,12 @@ atSomeone's purpose is to recreate the Discord's April Fools 2018 joke - @Someon
 <div aligh="center">
 	<img src="https://i.imgur.com/oOYrgpC.png">
 	</div>
+	
+---
+### ⚠️ Attention
+
+[Discord has recently introduced new features for bots](https://blog.discord.com/the-future-of-bots-on-discord-4e6e050ab52e), also coming with restrictions. [Privileged Gateway Intents](https://discordapp.com/developers/docs/topics/gateway#privileged-intents) is what I'm talking about. The bot fetches the whole members list (in the other words, uses so called "Privileged Gateway Intents") and it won't be able to do this after October 7, 2020, meaning the bot won't work at all, unless you'll have the access to Privileged Gateway Intents. So, go wild, I guess. You have some time left.
+---
 
 <h3>Table of Contents</h3>
 
@@ -63,4 +68,4 @@ Congratulations! The bot is working! :sparkles:
 
 <h2 align="center">License</h2>
 
-[This software is Unlicensed](https://github.com/TheOnlyGhostwolf/atSomeone/blob/master/LICENSE)
+[This software is Unlicensed](https://github.com/TheOnlyGhostwolf/atSomeone/blob/master/LICENSE). If you'll use this code in the other software, even though it's not mandatory, crediting me is highly appreciated!
