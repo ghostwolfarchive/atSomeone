@@ -1,13 +1,7 @@
 <div align="center">
     <img src="https://i.imgur.com/RFcCwcj.png">
-
-<a href="https://discord.gg/7vhD4KB">![Discord](https://img.shields.io/discord/661993788616474628?label=Join%20us%20on%20Discord&logo=discord&logoColor=ffffff)</a> | 
-<a href="https://github.com/TheOnlyGhostwolf/atSomeone/blob/master/LICENSE">![License](https://img.shields.io/badge/License-Unlicense-brightgreen)</a>
 </div>
 
----
-
-<h2 align="center">atSomeone</h2>
 atSomeone's purpose is to recreate the Discord's April Fools 2018 joke - @Someone function. 
 
 <div aligh="center">
@@ -15,23 +9,11 @@ atSomeone's purpose is to recreate the Discord's April Fools 2018 joke - @Someon
 	</div>
 	
 ---
-# ⚠️ Attention
-
-[Discord has recently introduced new features for bots](https://blog.discord.com/the-future-of-bots-on-discord-4e6e050ab52e), also coming with restrictions. [Privileged Gateway Intents](https://discordapp.com/developers/docs/topics/gateway#privileged-intents) is what I'm talking about. The bot fetches the whole members list (in the other words, uses so called "Privileged Gateway Intents") and it won't be able to do this after October 7, 2020, meaning the bot won't work at all, unless you'll have the access to Privileged Gateway Intents. So, go wild, I guess. You have some time left.
----
-
-<h3>Table of Contents</h3>
-
-- [Contributing](#contributing)
-- [Self-hosting](#self-hosting)
-- [License](#license)
-
-<h2 align="center">Contributing</h2>
-Any code improvements that would make the data gathering and processing even more effective are highly welcomed!
 
 <h2 align="center">Self-hosting</h2>
 
-> WARNING! This part might not be the best tutorial how to launch the bot. I apologise for that.
+When creating a new bot account, make sure to enable "Server members intent" in the bots tab, or else the bot might not function properly!
+![](https://i.kawaii.sh/d3BTTwM.png)
 
 Requirments:
 - Node 10.x or newer
@@ -65,7 +47,3 @@ Bot has started, with .. users, in .. channels of .. guilds.
 ```
 
 Congratulations! The bot is working! :sparkles:
-
-<h2 align="center">License</h2>
-
-[This software is Unlicensed](https://github.com/TheOnlyGhostwolf/atSomeone/blob/master/LICENSE). If you'll use this code in the other software, even though it's not mandatory, crediting me is highly appreciated!
